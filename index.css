@@ -1,0 +1,99 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+
+
+.img-dimension {
+	height: 250px;
+	width: 250px;
+}
+
+#nav, #landing, #footer {
+	font-family: "Playfair Display", serif;
+}
+
+#projects {
+	font-family: "Protest Revolution", sans-serif;
+}
+
+#tools {
+	font-family: "Roboto Condensed", sans-serif;
+}
+
+#contact {
+	font-family: "Protest Guerrilla", sans-serif;
+}
+
+#profile-pic, #e-commerce, #blog, #booking {
+	height: 250px;
+	width: 250px;
+}
+
+#projects, #tools, #contact {
+	min-height: 100vh;
+}
+
+.dimension {
+	height: 100px;
+	width: 100px;
+}
+
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 50%;
+}
+
+/* Add a hover effect if you want */
+.fa:hover {
+  opacity: 0.7;
+}
+
+/* Set a specific color for each brand */
+
+/* Facebook */
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+
+/* Twitter */
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+}
+
+.fa-linkedin {
+  background: #007bb5;
+  color: white;
+}
+
+.fa-youtube {
+  background: #bb0000;
+  color: white;
+}
+
+.bg-black {
+	background: black;
+}
+
+.fa-1x {
+  font-size: 1.5rem;
+}
+.navbar-toggler.toggler-example {
+  cursor: pointer;
+}
+
+.bg-dark-blue {
+	background: #00246B;
+}
+
+.bg-light-blue {
+	background: #CADCFC;
+}
